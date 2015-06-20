@@ -1,0 +1,10 @@
+{
+    "name": "ademp2",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "ademp2.xml",
+    "author": "ademcehajic",
+    "minimum_firmware_version": 42
+}
